@@ -36,6 +36,10 @@ document.getElementById('btn1').onclick = function () {
     appendToDisplay('8');
   };
   
+  document.getElementById('btn8').onclick = function () {
+    appendToDisplay('9');
+  };
+
   document.getElementById('btn0').onclick = function () {
     appendToDisplay('0');
   };
